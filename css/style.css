@@ -1,0 +1,46 @@
+body{
+	background-color: #3CB371;
+}
+nav{
+	background-color: #90EE90;
+	border-radius: 6px;
+	padding: 20px;
+}
+/*figcaption{
+	background-color: #1E90FF;
+}*/
+.about,.sail,.meropryat{
+	background-color: #2E8B57;
+}
+.border {
+	border: 3px solid #008000;
+}
+section {
+	padding: 20px;
+}
+img:hover  {
+	border: 3px solid #006400;
+}
+section:hover {
+	background-color: #98FB98;
+	border-radius: 6px;
+	padding: 20px;
+}
+section:hover {
+	border: 3px solid ##008000;
+}
+footer{
+	padding: 20px;
+}
+body{
+	font: 20px Century gothic;
+}
+a{
+	text-decoration: none;
+	color: #2E8B57;
+	background-color: #F0E68C;
+	border-radius: 8px;
+}
+a:visited{
+	color: #006400;
+}
